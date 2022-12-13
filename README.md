@@ -1,1 +1,7 @@
-
+Customers pages![customers](https://user-images.githubusercontent.com/102499671/207273590-f6b84e54-be12-4bb9-93dc-bae668890631.PNG)
+![customer2](https://user-images.githubusercontent.com/102499671/207273664-fc232cd6-2c99-4cbd-beb6-af853d72c9f9.PNG)
+![customer3](https://user-images.githubusercontent.com/102499671/207273688-20a86ab2-eafd-4bc5-a527-5129f56874b0.PNG)
+Products pages![products](https://user-images.githubusercontent.com/102499671/207273725-eb1a1705-3815-4d77-b3a6-15e4de02e52b.PNG)
+![product1](https://user-images.githubusercontent.com/102499671/207273797-9b873e4a-27e9-4703-90fd-5335687ab8f9.PNG)
+![product2](https://user-images.githubusercontent.com/102499671/207273824-d5917539-c7c0-4523-8ff1-4af9091efeca.PNG)
+![eureka](https://user-images.githubusercontent.com/102499671/207274099-a644e6be-8d3c-4f9c-9791-977e85d610e9.PNG)
